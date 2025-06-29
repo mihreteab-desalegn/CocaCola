@@ -344,7 +344,7 @@
 }
 
 .zoom-inn {
-  animation: zoomIn 2.5s ease-out 1.5s forwards;
+  animation: zoomIn 1.2s ease-out 1s forwards;
   opacity: 0;
 }
 
